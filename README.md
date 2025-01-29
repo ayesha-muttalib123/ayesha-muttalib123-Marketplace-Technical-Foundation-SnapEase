@@ -1,5 +1,5 @@
 # Marketplace Technical Foundation - SnapEase
-# Marketplace Technical Foundation
+
 
 ## System Overview
 This is the technical documentation for the marketplace application, including system architecture, APIs, workflows, and schemas.
